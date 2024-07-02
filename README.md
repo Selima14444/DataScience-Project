@@ -48,3 +48,6 @@ The project utilizes data from several sensor modules with varying characteristi
 - Piano Thick: 9 MOX sensors, sampled every 10 seconds
 - Piano Thin: 10 MOX sensors, sampled every 10 seconds
 - Piano PICO: 3 MOX sensors, sampled every 10 seconds
+
+## DataBase Location
+The database is located on my personal drive.
