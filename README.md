@@ -51,3 +51,5 @@ The project utilizes data from several sensor modules with varying characteristi
 
 ## DataBase Location
 The database is located on my personal drive.
+
+The entire workflow has been conducted in Google Colab
